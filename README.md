@@ -4,7 +4,9 @@
 
 Simple Weather App made using HTML, CSS JavaScript
 
-The app is created by [Esmar Walkman](https://www.linkedin.com/in/esmarwalkman/) and is a Weather Application locally hosted that uses an API to search for the weather in a city.
+Created by [Esmar Walkman](https://www.linkedin.com/in/esmarwalkman/)
+
+This a Weather Application locally hosted that uses an API to search for the weather in a searched city.
 
 Start by running python -m http.server 8080 in terminal to serve to localhost
 
