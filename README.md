@@ -1,4 +1,4 @@
-# Simple Weather App using HTML, CSS, and JavaScript
+# Simple Weather App using HTML, CSS, and & JavaScript
 
 ## Overview of Weather App
 
