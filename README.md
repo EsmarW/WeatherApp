@@ -12,4 +12,4 @@ Start by running in terminal "python -m http.server 8080" in the same directory 
 
 Then open "http://localhost:8080" in a browser
 
-![Weather App API](https://ia601007.us.archive.org/13/items/theoriginalfilesofsomewindowswallpapers/bliss%20600dpi.jpg)
+![Background Image](https://ia601007.us.archive.org/13/items/theoriginalfilesofsomewindowswallpapers/bliss%20600dpi.jpg)
