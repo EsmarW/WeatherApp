@@ -1,15 +1,13 @@
-# Simple Weather App using HTML, CSS, and JavaScript
+# Simple Weather App using HTML, CSS and JavaScript
 
 ## Overview of Weather App
 
-Simple Weather App made using HTML, CSS, &amp; JavaScript
+Simple Weather App made using HTML, CSS JavaScript
 
 Created by [Esmar Walkman](https://www.linkedin.com/in/esmarwalkman/)
 
-This a Weather Application locally hosted that uses an API to search for the weather in a city.
+This a Weather Application locally hosted that uses an API to search for the weather in a searched city.
 
-Start by running in terminal "python -m http.server 8080" in the same directory as project files to serve to localhost
+Start by running python -m http.server 8080 in terminal to serve to localhost
 
-Then open "http://localhost:8080" in a browser
-
-![Background Image](https://ia601007.us.archive.org/13/items/theoriginalfilesofsomewindowswallpapers/bliss%20600dpi.jpg)
+![Weather App API](https://ia601007.us.archive.org/13/items/theoriginalfilesofsomewindowswallpapers/bliss%20600dpi.jpg)
