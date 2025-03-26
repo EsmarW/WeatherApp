@@ -1,8 +1,8 @@
-# Simple Weather App using HTML, CSS, and & JavaScript
+# Simple Weather App using HTML, CSS, and JavaScript
 
 ## Overview of Weather App
 
-Simple Weather App made using HTML, CSS JavaScript
+Simple Weather App made using HTML, CSS, &amp JavaScript
 
 Created by [Esmar Walkman](https://www.linkedin.com/in/esmarwalkman/)
 
